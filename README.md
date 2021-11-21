@@ -1,4 +1,10 @@
-### Hi there 👋
+### What you will find here
+
+I have a blog I contribute to: https://muguira-james.github.io/
+
+I work as a technology strategist for a major consulting firm called slalom.
+
+I like to hack in list / clojure / Racket
 
 <!--
 **muguira-james/muguira-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
