@@ -2,11 +2,9 @@
 
 I have a blog I contribute to: https://muguira-james.github.io/
 
-I work as a technology strategist for a major consulting firm called slalom.
+I work in machine learning and semantic technology.
 
-I like to hack in lisp / clojure / Racket
-
-for my latest ideas see: https://github.com/muguira-james/racket-stuff 
+I work mostly in lisp & python
 
 <!--
 **muguira-james/muguira-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
